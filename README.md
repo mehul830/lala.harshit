@@ -1,5 +1,5 @@
 # lala.harshit
-Phishing
+H.s Phishing tool
 
 git clone https://github.com/lala.harshit/H.SPhishing.git
 cd H.SPhishing/
